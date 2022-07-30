@@ -1,0 +1,15 @@
+C:\Users\Donay\OneDrive\Área de Trabalho\projetos\csharp\bin\Debug\net6.0\csharp.exe
+C:\Users\Donay\OneDrive\Área de Trabalho\projetos\csharp\bin\Debug\net6.0\csharp.deps.json
+C:\Users\Donay\OneDrive\Área de Trabalho\projetos\csharp\bin\Debug\net6.0\csharp.runtimeconfig.json
+C:\Users\Donay\OneDrive\Área de Trabalho\projetos\csharp\bin\Debug\net6.0\csharp.dll
+C:\Users\Donay\OneDrive\Área de Trabalho\projetos\csharp\bin\Debug\net6.0\ref\csharp.dll
+C:\Users\Donay\OneDrive\Área de Trabalho\projetos\csharp\bin\Debug\net6.0\csharp.pdb
+C:\Users\Donay\OneDrive\Área de Trabalho\projetos\csharp\obj\Debug\net6.0\csharp.csproj.AssemblyReference.cache
+C:\Users\Donay\OneDrive\Área de Trabalho\projetos\csharp\obj\Debug\net6.0\csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Donay\OneDrive\Área de Trabalho\projetos\csharp\obj\Debug\net6.0\csharp.AssemblyInfoInputs.cache
+C:\Users\Donay\OneDrive\Área de Trabalho\projetos\csharp\obj\Debug\net6.0\csharp.AssemblyInfo.cs
+C:\Users\Donay\OneDrive\Área de Trabalho\projetos\csharp\obj\Debug\net6.0\csharp.csproj.CoreCompileInputs.cache
+C:\Users\Donay\OneDrive\Área de Trabalho\projetos\csharp\obj\Debug\net6.0\csharp.dll
+C:\Users\Donay\OneDrive\Área de Trabalho\projetos\csharp\obj\Debug\net6.0\ref\csharp.dll
+C:\Users\Donay\OneDrive\Área de Trabalho\projetos\csharp\obj\Debug\net6.0\csharp.pdb
+C:\Users\Donay\OneDrive\Área de Trabalho\projetos\csharp\obj\Debug\net6.0\csharp.genruntimeconfig.cache
