@@ -4,7 +4,7 @@ Testes sobre Singleton com C#
 
 O singleton evita instanciar uma classe mais de uma vez, tornando-a statica durante a execução do software.
 
-Neste teste criei duas classes que são responsáveis por retornar a soma de dois número.
+Neste teste criei duas classes que são responsáveis por retornar a soma de dois números.
 
 Em uma das classes (soma) utilizei o singleton e na classe soma2 não utilizei.
 
